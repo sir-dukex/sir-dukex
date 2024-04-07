@@ -6,4 +6,4 @@
 <p align="center">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=sir-dukex&theme=algolia&column=9"><br>
 </p>
-<img width=800 src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,docker,linux,azure,mysql,sqlite,html,css,neovim,vim,sublime,vscode">
+<img width=800 src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,ai,docker,linux,azure,mysql,sqlite,neovim,vim,sublime,vscode">
